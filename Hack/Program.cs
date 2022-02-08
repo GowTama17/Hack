@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using Hack;
+﻿using Hack;
 
 string[] Drives = Environment.GetLogicalDrives();
 db_a7d8d7_testingContext db = new db_a7d8d7_testingContext();
